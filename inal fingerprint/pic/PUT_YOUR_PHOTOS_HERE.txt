@@ -1,0 +1,2 @@
+Put your 10 or more fingerprint photos in this folder.
+Supported formats: png, jpg, jpeg, bmp, tif, tiff
